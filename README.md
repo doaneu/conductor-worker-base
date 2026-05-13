@@ -1,4 +1,4 @@
-# conductor-worker-base
+# Conductor Worker Base
 
 Base Docker image for [Conductor OSS](https://conductor-oss.org) workers. Handles all Conductor boilerplate — client setup, task registration, and polling — so individual worker images only need to export business logic.
 
