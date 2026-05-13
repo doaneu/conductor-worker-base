@@ -1,0 +1,13 @@
+{
+  "name": "conductor-worker-base",
+  "version": "1.0.0",
+  "description": "Base Conductor OSS worker image — shared bootstrap and utilities",
+  "main": "bootstrap.js",
+  "dependencies": {
+    "@io-orkes/conductor-javascript": "^3.0.0",
+    "node-jq": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
