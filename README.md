@@ -169,10 +169,3 @@ ${task_ref.output.result.your_field}
 | Default concurrency | 5 |
 | Default poll interval | 1000 ms |
 
----
-
-## Workers using this base
-
-| Worker | Image | Description |
-|---|---|---|
-| `acadeum_worker` | `acadeum-worker` | Acadeum API — GET, POST, PUT, PATCH, DELETE via `action` input |
